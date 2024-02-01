@@ -1,7 +1,7 @@
 <h1 align="center">[👋]Hello! I'm Evan Nicholas</h1>
 <h3 align="center">Aspiring Programmer & Engineer</h3>
 
-- 🌱 I’m currently learning **Software Development, C**
+- 🌱 I’m currently learning **AI Modeling, Python**
 
 - 📫 How to reach me **evannicholasbusiness@gmail.com**
 
