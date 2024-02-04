@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **evannicholasbusiness@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ai_b3-ltjoJF9f6ksgFqbFC9Pryvn0QFev4P3dUUpFc/edit?usp=sharing](https://docs.google.com/document/d/1ai_b3-ltjoJF9f6ksgFqbFC9Pryvn0QFev4P3dUUpFc/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/evanconnornicholas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evancnicholas" height="30" width="40" /></a>
