@@ -5,7 +5,7 @@
 
 - 🌱 My Most Recent Used Tools **PyTorch, ReactJS, NodeJS**
 
-- 📰 My Latest Project [Debatehub - Debating Practice Platform](https://github.com/debatesit/debatehub)
+- 📰 My Latest Project [Debatehub – Debating Practice Platform](https://github.com/debatesit/debatehub)
 
 - 🏆 My Most Achieved Project [DIT – Discord Info Assistant](https://github.com/Mintels/DIT)
 
