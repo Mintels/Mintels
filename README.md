@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan Nicholas</h1>
+<h1 align="center">Hi 👋🏽, I'm Evan Nicholas</h1>
 <h3 align="center">Computer Science @ Northeastern University</h3>
 </br>
 
