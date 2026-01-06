@@ -2,26 +2,25 @@
 <h3 align="center">Computer Science @ Northeastern University</h3>
 </br>
 
-<table align="center">
  
 
+<div>
+<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/6a31069e-add1-4d04-b733-f84a65a94b93" />
 
-<td>
- <ul>
+<div>
   
-  <li> 💫 My Favorite Project <a href="https://github.com/Mintels/Rem"> Rem – Conversational Companion</a> </li>
-  <li> 📢 My Latest Project <a href="https://github.com/debatesit/debatehub"> Debatehub – Debating Practice Platform</a> </li>
-  <li> 📸 A Notable Project <a href="https://github.com/Mintels/DIT"> DIT – Discord Info Assistant </a></li>
-  <li> 📕 Currently Studying: Python -  ML & Scripting  </li>
-  
- </ul>
-</td> 
+  <h3> 💫 My Favorite Project <a href="https://github.com/Mintels/Rem"> Rem – Conversational Companion</a> </h3>
+  <h3> 📢 My Latest Project <a href="https://github.com/debatesit/debatehub"> Debatehub – Debating Practice Platform</a> </h3>
+  <h3> 📸 A Notable Project <a href="https://github.com/Mintels/DIT"> DIT – Discord Info Assistant </a></h3>
+  <h3> 📕 Currently Studying: Python -  ML & Scripting  </h3>
 
-<td>
- 
- <img height=300  width=300 alt="Profile Picture" src="https://github.com/user-attachments/assets/c2eda2f8-2bce-4698-89c2-9e8c20d3fde2" />
- 
-</td>
+</div>
 
-</table>
+<hr>
+</div>
+
+
+
+
+
 
