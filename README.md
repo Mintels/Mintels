@@ -5,13 +5,14 @@
  
 
 <div>
-<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/6a31069e-add1-4d04-b733-f84a65a94b93" />
+<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/6ca3299f-5289-4959-a31e-e33a98b3e4a6"/>
+
 
 <div>
   
-  <h3> 💫 My Favorite Project <a href="https://github.com/Mintels/Rem"> Rem – Conversational Companion</a> </h3>
-  <h3> 📢 My Latest Project <a href="https://github.com/debatesit/debatehub"> Debatehub – Debating Practice Platform</a> </h3>
-  <h3> 📸 A Notable Project <a href="https://github.com/Mintels/DIT"> DIT – Discord Info Assistant </a></h3>
+  <h3> 💫 My Favorite Project: <a href="https://github.com/Mintels/Rem"> Rem – Conversational Companion</a> </h3>
+  <h3> 📢 My Latest Project: <a href="https://github.com/debatesit/debatehub"> Debatehub – Debating Practice Platform</a> </h3>
+  <h3> 📸 A Notable Project: <a href="https://github.com/Mintels/DIT"> DIT – Discord Info Assistant </a></h3>
   <h3> 📕 Currently Studying: Python -  ML & Scripting  </h3>
 
 </div>
