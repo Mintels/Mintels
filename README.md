@@ -13,7 +13,7 @@
   <h3> 💫 My Favorite Project: <a href="https://github.com/Mintels/Rem"> Rem – Conversational Companion</a> </h3>
   <h3> 📢 My Latest Project: <a href="https://github.com/Mintels/Regression-Algorithms"> Regression Algorithms </a> </h3>
   <h3> 📸 A Notable Project: <a href="https://github.com/Mintels/DIT"> DIT – Discord Info Assistant </a></h3>
-  <h3> 📕 Currently Studying: Python -  Django, React</h3>
+  <h3> 📕 Currently Studying: Python -  Django, Javascript - React.js</h3>
 
 </div>
 
